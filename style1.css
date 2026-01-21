@@ -1,0 +1,68 @@
+* {
+  font-family: "Spline Sans", sans-serif;
+}
+
+audio {
+  box-shadow: 20px 20px 50px rgb(17, 132, 66);
+  margin: 20px 30px;
+  padding: 2px 3px;
+  width: 75%;
+  border-radius: 80px;
+  border: 2px solid black;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px 5px rgb(17, 66, 132);
+
+  margin: 20px 30px;
+}
+h2 {
+  text-align: center;
+  text-shadow: 2px 2px 5px rgb(132, 66, 17);
+
+  font-size: 40px;
+  margin: 20px 30px;
+}
+
+p {
+  text-align: center;
+
+  margin: 20px 30px;
+  padding: 20px 30px;
+  border-left: 4px solid red;
+  border-right: 2px solid red;
+  border-radius: 20px;
+}
+
+hhr {
+  border: 2px solid black;
+  box-shadow: 5px 5px 15px rgb(132, 66, 123);
+}
+mark {
+  background-color: yellow;
+  color: red;
+  font-weight: bold;
+}
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+video,
+img {
+  box-shadow: 10px 10px 30px rgb(66, 17, 132);
+  margin: 20px 30px;
+  padding: 5px 7px;
+  border-radius: 30px;
+  border: 3px solid black;
+}
+.two {
+  box-shadow: 5px 5px 15px rgb(132, 66, 123);
+  margin: 10px 15px;
+  padding: 10px 15px;
+  border-radius: 50px;
+
+  background-color: #2a9c1f;
+}
